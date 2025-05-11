@@ -44,7 +44,8 @@ Identifying and addressing issues early in the requirements phase is far less ex
 - Provide a clear visual representation of system functionalities.
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
-![](alx-booking-uc.png)
+
+
 # Acceptance Criteria.
 ## Benefits of Acceptance Criteria:
 Ensure all parties have a clear understanding of feature requirements.
